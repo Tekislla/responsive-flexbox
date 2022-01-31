@@ -1,1 +1,2 @@
-# responsive-flexbox
+# Flexbox
+Responsive example page.
